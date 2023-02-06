@@ -35,7 +35,7 @@ a:focus {
 }
 /*-- header_top --*/
 .sidebar{
-  background:#3b5998;
+  background:#005b96;
   top: 0px;
   padding:2em 30px;
 }
@@ -96,7 +96,7 @@ address span{
 .glyphicon-file:before,.glyphicon-print:before,.glyphicon-envelope:before,.glyphicon-picture:before{
   margin-right: 9px;
   font-size: 14px;
-  color: #3b5998;
+  color: #005b96;
 }
 .details_header{
 	padding: 0em 1em 0 1em;
@@ -110,7 +110,7 @@ address span{
 }
 .details_header ul li a:hover{
 	/*color:#9b81e8;*/
-  color:#3b5998;
+  color:#005b96;
 }
 .company {
 	margin:2em 0;
@@ -201,7 +201,7 @@ address span{
 }
 h3.clr1{
   text-align: center;
-	background:#3b5998;
+	background:#005b96;
   width:270px;
   font-size:1.5em;
   font-weight:500;
@@ -231,7 +231,7 @@ h3.clr4{
 	color:#999;
 }
 .copywrite p a:hover{
-	color:#3b5998;
+	color:#005b96;
 }
 .contact-grid form{
 	padding:2em 0 0 2em;
@@ -259,7 +259,7 @@ h3.clr4{
   -webkit-appearance: none;
 }
 .send input[type="submit"]:hover {
-  background: #3b5998;
+  background: #005b96;
 }
 .contact-grid textarea {
   resize: none;
